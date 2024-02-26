@@ -197,7 +197,8 @@ package.json linguist-vendored
 *.latte linguist-language=Latte
 *.lean linguist-language=Lean
 *.less linguist-language=Less
-*.l linguist-language=Lex
+*.lex linguist-language=Lex
+*.yacc linguist-language=Yacc
 *.ly linguist-language=LilyPond
 *.b linguist-language=Limbo
 *.ld linguist-language=Linker Script
@@ -401,7 +402,6 @@ package.json linguist-vendored
 *.xtend linguist-language=Xtend
 *.yml linguist-language=YAML
 *.yang linguist-language=YANG
-*.y linguist-language=Yacc
 *.zep linguist-language=Zephir
 *.zimpl linguist-language=Zimpl
 *.desktop linguist-language=desktop
