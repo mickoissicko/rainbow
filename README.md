@@ -1,6 +1,6 @@
 # Rainbow!
 
-This repository shows "Hello world" in every single programming language!
+This repository shows "Hello world" in every single programming language and format, including base systems!
 
 See 'Thanks.txt'
 
