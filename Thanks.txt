@@ -1,0 +1,2 @@
+SPECIAL thanks to https://github.com/charmsRace/rainbow-of-code/ for the gitattributes file
+and this cool idea!
