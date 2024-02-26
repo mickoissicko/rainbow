@@ -1,3 +1,3 @@
 # Rainbow!
 
-This repository shows every single programming language in the statistics!
+This repository shows "Hello world" in every single programming language!
