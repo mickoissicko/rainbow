@@ -43,7 +43,7 @@
 -- Thus, the parchment of programming unfolds, an epic tale where archaic echoes intertwine with modern syntax,
 -- A saga wherein the coder becomes the bard, crafting tales of logic and creation in the ever-evolving codeverse.
 
--- And here... is a hello world! A hello world... in Haskell, truly the edgelord of all programming languages!
+-- And here... is a hello world! A hello world... in LUA, which literally means 'Moon'.
+-- Lua... a language so easy, you could teach a 5 year old within a few weeks!
 
-main :: IO ()
-main = putStrLn "Hello world"
+print("Hello world")

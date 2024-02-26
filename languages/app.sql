@@ -49,4 +49,4 @@ CREATE TABLE HelloWorldTable (
     GreetingMessage VARCHAR(255)
 );
 
-INSERT INTO HelloWorldTable (GreetingMessage) VALUES ('Hello, World!');
+INSERT INTO HelloWorldTable (GreetingMessage) VALUES ('Hello world');

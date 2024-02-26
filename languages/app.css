@@ -48,7 +48,7 @@ And here... is a hello world! A hello world... CSS, a mysterious abbreviation!
 */
 
 body::before {
-    content: "Hello, World!";
+    content: "Hello world";
     display: block;
     text-align: center;
     font-size: 24px;

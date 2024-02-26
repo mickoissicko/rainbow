@@ -60,5 +60,5 @@ _start:
     int 0x80
 
 section        .data             
-    msg        db "Hello world!", 0xa
+    msg        db "Hello world", 0xa
     len        equ $ -msg
