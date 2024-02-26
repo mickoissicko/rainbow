@@ -2,8 +2,6 @@
 
 This repository shows "Hello world" in every single programming language and format, including base systems!
 
-See 'Thanks.txt'
-
 # Some information
 I couldn't make a single branch with every single language, as Github breaks and marks it as 'other'.
 
