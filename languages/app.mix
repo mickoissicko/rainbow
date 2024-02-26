@@ -1,0 +1,53 @@
+_: In the realm of programming, whence the coder embarketh upon yon journey of logical sorcery,
+_: The grand tapestry of languages doth unfold, a lexicon vast as the cosmos itself.
+
+_: Lo! Behold the ancient tongues, whence assembly code didst dance with the elemental forces of bare metal.
+_: Verily, the assembler, a mystic artisan crafting incantations to commune with the very soul of the machine.
+
+_: Amidst the codefields, where mortals toil in digital forges, there riseth a noble Python, a serpent benign,
+_: Its syntax elegant, a serenade to the troubadours of clarity and brevity.
+
+_: Hark! The C language, stalwart guardian of low-level dominion, a valiant knight wielding pointers and arrays,
+_: With memory manipulation as its sword, it treadeth where others fear to venture.
+
+_: C++, a progeny of C, doth embellish the code with object-oriented finery, encapsulation and polymorphism,
+_: A sonnet of classes and templates, sung by developers in symphony.
+
+_: Java, the steward of cross-platform virtue, with its virtual machine, an oracle of "write once, run anywhere,"
+_: A noble steed galloping across the meadows of compatibility.
+
+_: Ruby, a gem of dynamism, a programming minstrel serenading with its magical syntactic sugar,
+_: Whose code doth readeth like poetry, a sonnet of expressiveness and joy.
+
+_: Assembler and Fortran, the elder sages, whisper tales of a bygone era, where machines communed in binary whispers,
+_: Foundations laid for the coders of today, indebted to these architects of yore.
+
+_: Swift, the fleet-footed offspring of Apple, coursing through the orchards of iOS, a language swift as the wind,
+_: Crafting apps with finesse and grace, a dance of user interfaces and backend embraces.
+
+_: JavaScript, the enchanter of browsers, casting spells upon the web with its dynamic prowess,
+_: A versatile sorcerer conjuring interactivity in the digital realms.
+
+_: PowerShell, a command-line wizardry, weaving spells of automation and administration,
+_: A conduit between the sysadmin and the arcane forces that govern the machines.
+
+_: SQL, the oracle of databases, its structured query language a tome for data acolytes,
+_: A declarative language querying the depths of information repositories.
+
+_: Scala, the fusion of functional and object-oriented enchantments, a hybrid spell for the disciples of concurrency,
+_: Bestowed with the power to traverse the parallel realms of computation.
+
+_: In the ethereal landscape of programming languages, each a character in the cosmic play,
+_: The journeyman coder finds solace in mastering these lexical arts, casting spells in lines of code.
+
+_: Thus, the parchment of programming unfolds, an epic tale where archaic echoes intertwine with modern syntax,
+_: A saga wherein the coder becomes the bard, crafting tales of logic and creation in the ever-evolving codeverse.
+
+_: And here... is a hello world! A hello world... in.. Mixlang! MY own programming language!!
+_: There are many ways to write hello world in Mix, but let's keep it simple
+
+[entry.Init]
+-->
+    out ;Hello world;
+<--
+[entry.Stop]
