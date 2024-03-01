@@ -43,7 +43,6 @@
 ; Thus, the parchment of programming unfolds, an epic tale where archaic echoes intertwine with modern syntax,
 ; A saga wherein the coder becomes the bard, crafting tales of logic and creation in the ever-evolving codeverse.
 
-; And here... is a hello world! A hello world... in C++, or as I like to call it -- CPP!
 ; We can make a hello world program in ASSEMBLY! Only elite programmers allowed!! 
 ; And i dont even know if it works :<
 
